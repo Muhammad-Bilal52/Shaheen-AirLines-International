@@ -178,3 +178,27 @@ span{
 	color: #fff;
 	text-decoration: none;
 }
+#text p{
+	font-size: 20px;
+	line-height: 2.6em;
+	text-align:center;
+
+}
+#text h1{
+	font-size: 25px;
+	text-align:center;	
+}
+#text{
+	margin-top:60px;
+}
+#sect{
+	width: 1170px;
+	height: 250px;
+	background-color:red;
+	margin: 0 auto;
+}
+#sect #text_part{
+	padding-top:80px;
+	width: 292.5px;
+	height: 103px;
+}
