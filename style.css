@@ -192,11 +192,13 @@ span{
 	margin-top:60px;
 }
 #sect{
+	margin-top: 110px; 
 	width: 1170px;
 	height: 250px;
 	margin: 0 auto;
 }
 #sect #text_part{
+	margin-top: 40px; 
 	padding-top:80px;
 	width: 292.5px;
 	height: 103px;
@@ -204,13 +206,16 @@ span{
 	float: left;
 }
 .image_sect{
+	margin-top: 40px;
 	float:left;
 	padding-top:30px;
 	padding-left: 70px;
+
 }
 .image_part{
 	float:left;
 	padding:50px;
+
 }
 /* Style the Image Used to Trigger the Modal */
 #myImg {
@@ -290,4 +295,57 @@ span{
     .modal-content {
         width: 100%;
     }
+}
+#footer{
+	width: 100%;
+	height: 378.13px;
+	background-color: #f2f2f2;
+}
+#content{
+	width: 1140px;
+	height: 258px;
+	margin: 0 auto;
+	margin-top:150px; 
+}
+.icon{
+	margin-left: 470px;
+}
+.stores img{
+	width:97px;
+	height:30px; 
+}
+.stores{
+	margin-top:20px;
+	margin-left: 370px;
+}
+.toll img{
+	border-right: 1px dotted;
+	width: 60px;
+	height: 53.13px;
+}
+.toll{
+	margin-left: 370px;
+	margin-top:30px;
+}
+.toll img{
+	float: left;
+}
+.toll p{
+	font-size: 10px;
+	line-height: 1.5em;
+	padding-top:5px;
+	padding-left: 10px;
+	float:left;
+}
+.copyright p{
+	color:grey;
+	margin-left: 470px;
+	margin-bottom: 20px;
+}
+.con p{
+	color:skyblue;
+	margin-left:600px;
+}
+.con p:hover{
+	color:green;
 }
