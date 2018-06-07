@@ -350,8 +350,9 @@ span{
 	color:green;
 }
 .career{
+	box-shadow: 2px 2px 2px 2px;
 	width:1170px;
-	height: 941px;
+	height: 1020px;
 	margin:0 auto;
 	padding:20px;
 	margin-top:100px;
@@ -361,7 +362,7 @@ span{
 .career-main{
 	background-image: url("palmleafs.png");
 	width: 1366px;
-	height: 1000px;
+	height: 1100px;
 }
 .career p{
 	font-size: 35px;
@@ -393,4 +394,51 @@ span{
 	font-family: Arial;
 	line-height: 1.2em;
 	padding-left:20px;
+}
+.route{
+	box-shadow: 2px 2px 2px 2px;
+	width:1100px;
+	height: 700px;
+	margin:0 auto;
+	padding:20px;
+	margin-top:100px;
+	background-color:white;
+	border:5px black;
+}
+.route-main{
+	background-image: url("palmleafs.png");
+	width: 1366px;
+	height: 700px;
+}
+.route p{
+	font-size: 35px;
+	opacity: 0.7;
+	padding-left:70px;
+}
+.route img{
+	margin-top: 15px;
+	width: 1098px;
+	height: 610px;
+}
+
+.service{
+	box-shadow: 2px 2px 2px 2px;
+	width:1100px;
+	height: 700px;
+	margin:0 auto;
+	padding:20px;
+	margin-top:100px;
+	background-color:white;
+	border:5px black;
+}
+.service-main{
+	background-image: url("palmleafs.png");
+	width: 1366px;
+	height: 700px;
+}
+.service p{
+	font-size: 35px;
+	opacity: 0.7;
+	margin-top: 10px;
+	padding-left:30px;
 }
