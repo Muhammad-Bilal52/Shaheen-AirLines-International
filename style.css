@@ -424,7 +424,7 @@ span{
 .service{
 	box-shadow: 2px 2px 2px 2px;
 	width:1100px;
-	height: 700px;
+	height: 800px;
 	margin:0 auto;
 	padding:20px;
 	margin-top:100px;
@@ -434,11 +434,69 @@ span{
 .service-main{
 	background-image: url("palmleafs.png");
 	width: 1366px;
-	height: 700px;
+	height: 800px;
 }
 .service p{
 	font-size: 35px;
 	opacity: 0.7;
 	margin-top: 10px;
 	padding-left:30px;
+}
+.sai p{
+	margin-top: 50px;
+	font-size: 22px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.sertxt img{
+	margin-top: 40px;
+	float:left;
+}
+.sertxt p{
+	padding-top:50px;
+	padding-left:720px;
+	font-size:26px;
+}
+.about{
+	box-shadow: 2px 2px 2px 2px;
+	width:1100px;
+	height: 1300px;
+	margin:0 auto;
+	padding:20px;
+	margin-top:100px;
+	background-color:white;
+	border:5px black;
+}
+.about-main{
+	background-image: url("palmleafs.png");
+	width: 1366px;
+	height: 1300px;
+}
+.about p{
+	font-size: 35px;
+	opacity: 0.7;
+	margin-top: 10px;
+	padding-left:30px;
+}
+.ab p{
+	margin-top: 50px;
+	font-size: 22px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.plane{
+	margin:auto 0;
+}
+.plane img{
+	width: 1008px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left:40px;
+}
+.bar p{
+	font-size:20px;
+	width: 700px;
+	float: left;
+}
+.bar img{
+	padding-top:140px;
+	padding-left:20px;
 }
